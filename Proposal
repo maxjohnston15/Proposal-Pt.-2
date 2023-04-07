@@ -1,0 +1,51 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Interactive Character Scene
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+I will use Ren'Py, a visual novel engine to allow a user to interactively act out a short story line.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+I will be executing this project by utilizing Ren'Py which incorporates the use of Python
+scripting and I will create a character who will take part in a short story line that
+finds the character in challenges. To complete the challenges, the user will need to elect
+solutions from multiple choice options and there will be particular solutions that will
+adapt the plot line based on the given choices.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+N/A
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+Working alone
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+Create a character with a minor story line.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+Create a character with a minor story line. Interactive choices on behalf of the user
+will need to select correct answers to progress in the storyline.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+Create a character with a minor story line. Interactive choices on behalf of the user
+will change the path of the story line ultimately including a variety of endings to the plot.
+
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+I have never used Ren'Py, so learning the basic to intermediate skills of Ren'Py will be the
+first step. After having a better sense of how Ren'Py is run, I will determine the type of
+general plot that I would like for my character to act out. Based on my limited current
+understanding of Ren'Py, I will still be utilizing python scripting so I intend to use what
+we have learned this year and include it in my code.
+
